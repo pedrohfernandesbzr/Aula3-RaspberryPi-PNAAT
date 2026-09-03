@@ -1,0 +1,28 @@
+{
+  "detections": [
+    {
+      "label": "person",
+      "confidence": 0.5352,
+      "bbox": [
+        276.67,
+        382.78,
+        297.76,
+        444.37
+      ]
+    },
+    {
+      "label": "boat",
+      "confidence": 0.3726,
+      "bbox": [
+        818.57,
+        89.96,
+        904.63,
+        368.8
+      ]
+    }
+  ],
+  "inference_ms": 2211.4,
+  "model_used": "yolov8n.pt",
+  "image_width": 1024,
+  "image_height": 576
+}
