@@ -2,6 +2,7 @@ services:
 
 
   yolo-api:
+    image: ghcr.io/pedrohfernandesbzr/aula3-raspberrypi-pnaat/yolo-api:latest
     build:
       context: .
       dockerfile: Dockerfile.api
